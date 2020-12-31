@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mlmmo-dev-202952-authRole",
+      "UnauthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-202952-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-202952-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mlmmo-dev-202952-deployment",
+      "UnauthRoleName": "amplify-mlmmo-dev-202952-unauthRole",
+      "StackName": "amplify-mlmmo-dev-202952",
+      "StackId": "arn:aws:cloudformation:us-east-1:018872277288:stack/amplify-mlmmo-dev-202952/90a85900-4b9e-11eb-877f-120290f41bcd",
+      "AmplifyAppId": "d3hsxs7yovzq1g"
+    }
+  }
+}
