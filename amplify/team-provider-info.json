@@ -1,29 +1,29 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-mlmmo-dev-00239-authRole",
-            "UnauthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-00239-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-00239-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-mlmmo-dev-00239-deployment",
-            "UnauthRoleName": "amplify-mlmmo-dev-00239-unauthRole",
-            "StackName": "amplify-mlmmo-dev-00239",
-            "StackId": "arn:aws:cloudformation:us-east-1:018872277288:stack/amplify-mlmmo-dev-00239/70a641d0-55f3-11eb-b72e-1264a8f6165d",
-            "AmplifyAppId": "d23a4gs9wxskxi"
-        },
-        "categories": {
-            "auth": {
-                "amplifyphotobookytd77f5a70": {}
-            },
-            "function": {
-                "AmplifyPhotoProcessor": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d23a4gs9wxskxi",
-                    "type": "manual"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mlmmo-dev-20115-authRole",
+      "UnauthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-20115-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::018872277288:role/amplify-mlmmo-dev-20115-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mlmmo-dev-20115-deployment",
+      "UnauthRoleName": "amplify-mlmmo-dev-20115-unauthRole",
+      "StackName": "amplify-mlmmo-dev-20115",
+      "StackId": "arn:aws:cloudformation:us-east-1:018872277288:stack/amplify-mlmmo-dev-20115/07ae8d70-5604-11eb-bf83-12342204bca9",
+      "AmplifyAppId": "d3n4p1zgmcx9a4"
+    },
+    "categories": {
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      },
+      "function": {
+        "AmplifyPhotoProcessor": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3n4p1zgmcx9a4",
+          "type": "manual"
         }
+      }
     }
+  }
 }
