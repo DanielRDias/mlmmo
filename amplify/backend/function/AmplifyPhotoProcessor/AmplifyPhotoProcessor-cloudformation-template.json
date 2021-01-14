@@ -83,7 +83,7 @@
         "Layers": [],
         "Timeout": "25",
         "Code": {
-          "S3Bucket": "amplify-mlmmo-dev-00239-deployment",
+          "S3Bucket": "amplify-mlmmo-dev-20115-deployment",
           "S3Key": "amplify-builds/AmplifyPhotoProcessor-757a69683970426e5a34-build.zip"
         }
       }
